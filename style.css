@@ -53,7 +53,7 @@ section{
     min-height: 70vh;
     display: flex;
     align-items: center;
-    background:url(images/background.png) no-repeat ;
+    background:url(background.png) no-repeat ;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
